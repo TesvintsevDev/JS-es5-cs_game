@@ -7,6 +7,13 @@ var $resultHeader = document.querySelector('#result-header')
 var $gameTime = document.querySelector('#game-time')
 
 var colors = [
+  '#FF8C00',
+  '#A52A2A',
+  '#6495ED',
+  '#D2691E',
+  '#FF7F50',
+  '#8A2BE2',
+  '#00FFFF',
   '#eeb23d',
   '#7783b6',
   '#ee47c3',
